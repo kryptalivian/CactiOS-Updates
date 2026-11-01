@@ -1,0 +1,10 @@
+{
+  "version": "1.10.0",
+  "notes": [
+    "Game Store, search, new layouts, scraping engines, sync, web admin, 28 profile pictures"
+  ],
+  "url": "Cacti-OS-1.10.0.update",
+  "sha256": "59911b16fd6fabfcd54a6014f2d95cac8cccc6ec22087986f30014d4c541d921",
+  "size": 293159,
+  "sig": "TkDrGF1rvHtvjcNsWPjO6jDO/VKWJttLOVXsDX3GvxvgCA54jZGJnsCtcWOVbgWlgXyOlWTyBvymr+mtvFtZAw=="
+}
