@@ -1,10 +1,20 @@
 {
-  "version": "1.10.0",
+  "version": "1.12.0",
   "notes": [
-    "Game Store, search, new layouts, scraping engines, sync, web admin, 28 profile pictures"
+    "Store menu: decomps & ports, emulators and recomp links",
+    "Main menu reorganized: Features, Store, ROMs & Emulators, UI Settings, Advanced, Updates",
+    "Built-in update address: checks the official Cacti OS update list by default",
+    "Option rows open a pick-from-a-list popup",
+    "Only show games with achievements filter",
+    "Profile picture row fixes and 20 new profile pictures (5 animated)",
+    "Wi-Fi icon refreshes until connected; Raspberry Pi Bluetooth wake-up",
+    "16 new systems, search, Detail/Covers/Timeline layouts",
+    "Scraping engines, display settings, in-game controller mapping",
+    "Network sharing, device sync, web admin Accounts and keys",
+    "Discord step removed from first-time setup"
   ],
-  "url": "Cacti-OS-1.10.0.update",
-  "sha256": "59911b16fd6fabfcd54a6014f2d95cac8cccc6ec22087986f30014d4c541d921",
-  "size": 293159,
-  "sig": "TkDrGF1rvHtvjcNsWPjO6jDO/VKWJttLOVXsDX3GvxvgCA54jZGJnsCtcWOVbgWlgXyOlWTyBvymr+mtvFtZAw=="
+  "url": "Cacti-OS-1.12.0.update",
+  "sha256": "21707b230a600ea705762131d03f2ca66c77396abfc0a41dc52fb4503d422442",
+  "size": 296986,
+  "sig": "Mr5hXzu3J6prR9DPgAAzyBnS/GbGwHRIuHMs9APH6aigRCTiYBDoA5iNQwm/OKq6096S2edri6Qh4ebBBTErCA=="
 }
