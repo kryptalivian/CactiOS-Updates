@@ -1,17 +1,12 @@
 {
-  "version": "1.12.5",
+  "version": "1.12.7",
   "notes": [
-    "Send ROMs from your computer is now called Web UI",
-    "Selection boxes fit each game row, and the console tab box is back",
-    "Achievement counts in the library are white text on the dark pill",
-    "Prompt button letters are centered in their circles",
-    "Profile overview shows your own profile picture",
-    "Music player drops down centered under its icon, without the arrow",
-    "Friends selection no longer overlaps the title",
-    "Check for updates also finds the update list when GitHub renames the file"
+    "Profile overview: new Site Ranking pill under your achievements card",
+    "New Control Deck look for the Web UI, with a Home page",
+    "Fixes: Web UI naming, selection boxes, music popdown, profile picture, update check on Mac"
   ],
-  "url": "Cacti-OS-1.12.5.update",
-  "sha256": "8203bfbd47b69e8a2b7ad69b8a1006ac46d3a556cad9c820abeb15860594b1d4",
-  "size": 299458,
-  "sig": "yVXHwj+l8VZ42qagdidscf9gB+9yIQ+JNBpEiewSHSH5350f+k0TQ5ol5Ik0UJJRo+M+kPed2IxQxn4ainziBg=="
+  "url": "Cacti-OS-1.12.7.update",
+  "sha256": "9e5563a15c2bfda7fc83ff60ebf718c41b9e6b70f97b742299ded591d3024684",
+  "size": 302530,
+  "sig": "j6sLWWUrRpgScj5gpUT0wSYTN41dMESpliJnP2WOMCOv0boAl3+9mFbd3gOsUvqj9aEbffs1Iqvnuk5n34v4Cw=="
 }
