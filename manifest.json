@@ -1,20 +1,17 @@
 {
-  "version": "1.12.0",
+  "version": "1.12.5",
   "notes": [
-    "Store menu: decomps & ports, emulators and recomp links",
-    "Main menu reorganized: Features, Store, ROMs & Emulators, UI Settings, Advanced, Updates",
-    "Built-in update address: checks the official Cacti OS update list by default",
-    "Option rows open a pick-from-a-list popup",
-    "Only show games with achievements filter",
-    "Profile picture row fixes and 20 new profile pictures (5 animated)",
-    "Wi-Fi icon refreshes until connected; Raspberry Pi Bluetooth wake-up",
-    "16 new systems, search, Detail/Covers/Timeline layouts",
-    "Scraping engines, display settings, in-game controller mapping",
-    "Network sharing, device sync, web admin Accounts and keys",
-    "Discord step removed from first-time setup"
+    "Send ROMs from your computer is now called Web UI",
+    "Selection boxes fit each game row, and the console tab box is back",
+    "Achievement counts in the library are white text on the dark pill",
+    "Prompt button letters are centered in their circles",
+    "Profile overview shows your own profile picture",
+    "Music player drops down centered under its icon, without the arrow",
+    "Friends selection no longer overlaps the title",
+    "Check for updates also finds the update list when GitHub renames the file"
   ],
-  "url": "Cacti-OS-1.12.0.update",
-  "sha256": "21707b230a600ea705762131d03f2ca66c77396abfc0a41dc52fb4503d422442",
-  "size": 296986,
-  "sig": "Mr5hXzu3J6prR9DPgAAzyBnS/GbGwHRIuHMs9APH6aigRCTiYBDoA5iNQwm/OKq6096S2edri6Qh4ebBBTErCA=="
+  "url": "Cacti-OS-1.12.5.update",
+  "sha256": "8203bfbd47b69e8a2b7ad69b8a1006ac46d3a556cad9c820abeb15860594b1d4",
+  "size": 299458,
+  "sig": "yVXHwj+l8VZ42qagdidscf9gB+9yIQ+JNBpEiewSHSH5350f+k0TQ5ol5Ik0UJJRo+M+kPed2IxQxn4ainziBg=="
 }
