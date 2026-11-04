@@ -10,28 +10,31 @@ Cacti OS
 Cacti OS is a modern, controller-first retro gaming front end. It has a console-style interface, RetroAchievements support, and per-player profiles. It scans your ROM folders, scrapes box art, and launches games in emulators. The same interface runs on desktop, as a ready-to-flash Raspberry Pi 5 image, and on Android.
 
 Features
-Library: Scans your ROM folders and scrapes box art and metadata. Duplicate regions and multi-disc games are collapsed into one entry, with a toggle to show them all.
-Clean up library: Moves files into the right console folder (.nes to NES, .sfc to SNES, and so on). Saves and scraped art move with the game. Anything it can’t identify, such as zips of unknown systems, is left alone.
-RetroAchievements: Sign-in, per-game progress, unlock pills during play, hardcore mode, and a points and last-played summary for each player.
-Players and profiles: Each player has their own saves, save states and backups, plus a Guest mode that keeps nothing. A “Who’s playing?” screen appears at startup when there’s more than one player.
-Visuals: Presets that make the picture look like the original hardware, including aspect ratio, integer scaling and LCD or CRT shaders.
-Compare view: Launches a local ROM next to the game page, so you can check a region or revision before playing.
-Recomps: Installed recompilation ports appear as their own tab and launch like any other game.
-Themes and settings: Several themes, plus icon settings (trophy, friends, header icon size and decluttering).
+* Library: Scans your ROM folders and scrapes box art and metadata. Duplicate regions and multi-disc games are collapsed into one entry, with a toggle to show them all.
+* Clean up library: Moves files into the right console folder (.nes to NES, .sfc to SNES, and so on). Saves and scraped art move with the game. Anything it can’t identify, such as zips of unknown systems, is left alone.
+* RetroAchievements: Sign-in, per-game progress, unlock pills during play, hardcore mode, and a points and last-played summary for each player.
+* Players and profiles: Each player has their own saves, save states and backups, plus a Guest mode that keeps nothing. A “Who’s playing?” screen appears at startup when there’s more than one player.
+* Visuals: Presets that make the picture look like the original hardware, including aspect ratio, integer scaling and LCD or CRT shaders.
+* Compare view: Launches a local ROM next to the game page, so you can check a region or revision before playing.
+* Recomps: Installed recompilation ports appear as their own tab and launch like any other game.
+* Themes and settings: Several themes, plus icon settings (trophy, friends, header icon size and decluttering).
+
 Platforms
+
 Platform	Notes
-Windows, macOS	Electron desktop app
-SteamOS	Desktop package for Steam Deck or Linux
-Web	Browser build
-Raspberry Pi 5	Buildroot-based OS image that boots straight into Cacti OS and grows its data partition on first boot
-Android	Native player (libretro cores plus an rcheevos achievements runtime) with the same UI, tested on tablet
+* Windows, macOS	Electron desktop app
+* SteamOS	Desktop package for Steam Deck or Linux
+* Web	Browser build
+* Raspberry Pi 5	Buildroot-based OS image that boots straight into Cacti OS and grows its data partition on first boot
+* Android	Native player (libretro cores plus an rcheevos achievements runtime) with the same UI, tested on tablet
+
 Status
 
 Desktop is at v1.12.8, and Android is a debug build at 1.12.8-android14. In progress or planned:
 
 Matching games on RetroAchievements by file hash instead of title.
-A save-state manager, which is on hold.
-A ScreenScraper developer registration for built-in scraping.
+* A save-state manager, which is on hold.
+  
 Legal
 
 Cacti OS doesn’t include or download games or BIOS files. Bring your own legally obtained ROMs.# CactiOS-Updates
